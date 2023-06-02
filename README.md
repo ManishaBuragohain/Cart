@@ -1,3 +1,3 @@
 # for quick review of the project
 
-github.com/ManishaBuragohain/Cart
+https://manishaburagohain.github.io/Cart/
